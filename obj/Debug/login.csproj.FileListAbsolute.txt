@@ -1,0 +1,578 @@
+C:\Users\Angel1\Desktop\login\bin\Debug\login.exe.config
+C:\Users\Angel1\Desktop\login\bin\Debug\login.exe
+C:\Users\Angel1\Desktop\login\bin\Debug\login.pdb
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form1.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form2.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.exe
+C:\Users\Angel1\Desktop\login\obj\Debug\login.pdb
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form3.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form4.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form5.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form6.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form7.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form8.resources
+C:\Users\henry\source\repos\login\bin\Debug\login.exe.config
+C:\Users\henry\source\repos\login\bin\Debug\login.exe
+C:\Users\henry\source\repos\login\bin\Debug\login.pdb
+C:\Users\henry\source\repos\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\login\obj\Debug\login.exe
+C:\Users\henry\source\repos\login\obj\Debug\login.pdb
+C:\Users\henry\source\repos\login\obj\Debug\login.FormLogin.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormMain.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\bin\Debug\login.exe.config
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\bin\Debug\login.exe
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\bin\Debug\login.pdb
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormLogin.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormMain.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.exe
+C:\Users\jwgar\Desktop\362proj\CPSC-362-Inventory-Program\login\obj\Debug\login.pdb
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\login.exe.config
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\login.exe
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\login.pdb
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormLogin.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormMain.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.exe
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.pdb
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\henry\Desktop\login\bin\Debug\login.exe.config
+C:\Users\henry\Desktop\login\bin\Debug\login.exe
+C:\Users\henry\Desktop\login\bin\Debug\login.pdb
+C:\Users\henry\Desktop\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\henry\Desktop\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormLogin.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormMain.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\henry\Desktop\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\henry\Desktop\login\obj\Debug\login.exe
+C:\Users\henry\Desktop\login\obj\Debug\login.pdb
+C:\Users\henry\Desktop\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\bin\Debug\login.exe.config
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\bin\Debug\login.exe
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\bin\Debug\login.pdb
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormLogin.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormMain.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrder.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.exe
+C:\Users\jwgar\Desktop\New folder\CPSC-362-Inventory-Program\login\obj\Debug\login.pdb
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\login.exe.config
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\login.exe
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\login.pdb
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormLogin.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormMain.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrder.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.exe
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.pdb
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormAccount.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\login.exe.config
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\login.exe
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\login.pdb
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormAccount.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormLogin.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormMain.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormOrder.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.exe
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.pdb
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\EnvDTE.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\stdole.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormOrderHistory.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\RdlCompile.cache
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\RdlCompile.compiled
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Dapper.dll
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\bin\Debug\Dapper.xml
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormInvoice.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrderHistory.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInvoice.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\RdlCompile.cache
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\RdlCompile.compiled
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Dapper.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\EnvDTE.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\stdole.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\Dapper.xml
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\calvin\Desktop\login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\calvin\Desktop\login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\login\bin\Debug\login.exe.config
+C:\Users\calvin\Desktop\login\bin\Debug\login.exe
+C:\Users\calvin\Desktop\login\bin\Debug\login.pdb
+C:\Users\calvin\Desktop\login\bin\Debug\Dapper.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\calvin\Desktop\login\bin\Debug\EnvDTE.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\calvin\Desktop\login\bin\Debug\stdole.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\calvin\Desktop\login\bin\Debug\Dapper.xml
+C:\Users\calvin\Desktop\login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormAccount.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormLogin.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormMain.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormOrder.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormOrderHistory.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormInvoice.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\calvin\Desktop\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\calvin\Desktop\login\obj\Debug\RdlCompile.cache
+C:\Users\calvin\Desktop\login\obj\Debug\RdlCompile.compiled
+C:\Users\calvin\Desktop\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\calvin\Desktop\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\calvin\Desktop\login\obj\Debug\login.exe
+C:\Users\calvin\Desktop\login\obj\Debug\login.pdb
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\login.exe.config
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\login.exe
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\login.pdb
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Dapper.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\EnvDTE.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\stdole.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\Dapper.xml
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormAccount.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormCreateAccount.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormDeleteAccount.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormLogin.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormMain.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormInsertProduct.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormDeleteProduct.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormInsertSupplier.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormDeleteSupplier.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormOrder.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormOrderHistory.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormInvoice.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormSearchShipmentTime.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormUpdateProduct.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormUpdateSupplier.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormSearchProductLocation.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormSearchProductQuantity.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormViewAccounts.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\RdlCompile.cache
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\RdlCompile.compiled
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.exe
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.pdb
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormNewOrder.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormNewOrder.resources
+C:\Users\calvin\Desktop\CPSC-362-Inventory-Program-master\login\obj\Debug\login.FormOrderInfo.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormNewOrder.resources
+C:\Users\calvin\Desktop\Github Repo\Inventory_362\login\obj\Debug\login.FormOrderInfo.resources
+C:\Users\henry\source\repos\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrderInfo.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Dapper.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\EnvDTE.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\stdole.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\Dapper.xml
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormAccount.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInsertShippingInfomation.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormNewOrder.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrderInfo.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrder.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormOrderHistory.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormInvoice.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.FormProductBarcode.resources
+C:\Users\jwgar\Desktop\362\CPSC-362-Inventory-Program\login\obj\Debug\login.csproj.CopyComplete
