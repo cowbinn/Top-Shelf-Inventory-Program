@@ -2,10 +2,10 @@
 
 Warehouse inventory software to help keep track of inventory stock, order history, and place orders.
 
-##Tool Used: 
+## Tool Used: 
 
 Visual Studio
 
-##Programming Language: 
+## Programming Language: 
 
 C#, mySQL
